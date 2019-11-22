@@ -1,4 +1,8 @@
+% AF_detection_EMD.m (c) Prasanth "Prash" Ganesan
+% Author: Prash Ganesan <prasganesan.pg@gmail.com>
+
 clear; clc; close all
+
 %% Import AF ECG
 [t_af,ECG_af]=rdsamp('afdb/04043',[1],1000); %04015
 fs=250;
