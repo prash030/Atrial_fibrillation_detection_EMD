@@ -1,5 +1,7 @@
-% AF_detection_EMD.m (c) Prasanth "Prash" Ganesan
-% Author: Prash Ganesan <prasganesan.pg@gmail.com>
+% AF_detection_EMD.m
+
+% Copyright (c) Prasanth "Prash" Ganesan
+% Author email: <prasganesan.pg@gmail.com>
 
 clear; clc; close all
 
